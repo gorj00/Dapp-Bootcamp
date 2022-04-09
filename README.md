@@ -4,4 +4,4 @@ truffle compile
 truffle migrate
 truffle console
 ```
-<!-- LAST PLAYED 19 -->
+<!-- LAST PLAYED 20 15moin -->
