@@ -4,4 +4,4 @@ truffle compile
 truffle migrate
 truffle console
 ```
-<!-- 22 22:57 -->
+<!-- 22 32min -->
